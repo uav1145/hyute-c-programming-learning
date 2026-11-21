@@ -1,0 +1,13 @@
+{
+  "modules": 5,
+  "cases": 21,
+  "ipo_tables": 21,
+  "pseudocodes": 21,
+  "test_matrices": 21,
+  "rubrics": 21,
+  "self_checks": 21,
+  "notes": 21,
+  "scroll_nav": true,
+  "retained_student_state": true,
+  "errors": []
+}

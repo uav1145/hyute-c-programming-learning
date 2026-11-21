@@ -1,0 +1,25 @@
+{
+  "version": "v3.0",
+  "lessons": 21,
+  "workshops": 5,
+  "assignments": 2,
+  "quizzes": 105,
+  "exercises": 63,
+  "extra_labs": 26,
+  "flowcharts": 21,
+  "syntax_cards": 34,
+  "compiled_programs": 68,
+  "run_test_cases_passed": 88,
+  "output_verified_exact": 85,
+  "output_verified_pattern": 3,
+  "output_unchecked": 0,
+  "answer_distribution": {
+    "A": 26,
+    "B": 27,
+    "C": 26,
+    "D": 26
+  },
+  "errors": [],
+  "elapsed_seconds": 2.45,
+  "flags": "gcc -std=c11 -Wall -Wextra -Wpedantic -Werror -lm"
+}
